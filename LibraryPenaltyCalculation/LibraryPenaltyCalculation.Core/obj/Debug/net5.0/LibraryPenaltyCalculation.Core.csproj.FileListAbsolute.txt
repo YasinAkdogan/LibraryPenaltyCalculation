@@ -1,0 +1,12 @@
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Core\bin\Debug\net5.0\LibraryPenaltyCalculation.Core.deps.json
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Core\bin\Debug\net5.0\LibraryPenaltyCalculation.Core.dll
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Core\bin\Debug\net5.0\ref\LibraryPenaltyCalculation.Core.dll
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Core\bin\Debug\net5.0\LibraryPenaltyCalculation.Core.pdb
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Core\obj\Debug\net5.0\LibraryPenaltyCalculation.Core.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Core\obj\Debug\net5.0\LibraryPenaltyCalculation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Core\obj\Debug\net5.0\LibraryPenaltyCalculation.Core.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Core\obj\Debug\net5.0\LibraryPenaltyCalculation.Core.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Core\obj\Debug\net5.0\LibraryPenaltyCalculation.Core.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Core\obj\Debug\net5.0\LibraryPenaltyCalculation.Core.dll
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Core\obj\Debug\net5.0\ref\LibraryPenaltyCalculation.Core.dll
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Core\obj\Debug\net5.0\LibraryPenaltyCalculation.Core.pdb

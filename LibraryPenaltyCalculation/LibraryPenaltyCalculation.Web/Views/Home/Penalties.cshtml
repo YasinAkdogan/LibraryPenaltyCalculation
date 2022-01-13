@@ -1,0 +1,30 @@
+﻿@model LibraryPenaltyCalculation.Core.ViewModels.PenaltyViewModel
+<div class="row">
+    <div class="col-sm-6">
+        <label>Toplam Gün : @Model.TotalDay</label>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-6">
+        <label style="background-color:red;">İzin Günleri</label>
+    </div>
+</div>
+
+@foreach (var item in Model.HolidayDays)
+{
+    <div class="row">
+        <div class="col-sm-6">
+            <label>@item.Key.ToShortDateString() - @item.Value</label>
+        </div>
+    </div>
+}
+<div class="row">
+    <div class="col-sm-6">
+        <label>Toplam Gün : @Model.CalculationDay</label>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-6">
+        <label style="background-color:red;">Ceza Tutarı : @Model.Amercement @Model.Currency</label>
+    </div>
+</div>

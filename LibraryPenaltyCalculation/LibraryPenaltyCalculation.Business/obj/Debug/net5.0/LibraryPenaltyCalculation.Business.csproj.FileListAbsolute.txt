@@ -1,0 +1,17 @@
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\bin\Debug\net5.0\LibraryPenaltyCalculation.Business.deps.json
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\bin\Debug\net5.0\LibraryPenaltyCalculation.Business.dll
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\bin\Debug\net5.0\ref\LibraryPenaltyCalculation.Business.dll
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\bin\Debug\net5.0\LibraryPenaltyCalculation.Business.pdb
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\bin\Debug\net5.0\LibraryPenaltyCalculation.Core.dll
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\bin\Debug\net5.0\LibraryPenaltyCalculation.Data.dll
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\bin\Debug\net5.0\LibraryPenaltyCalculation.Core.pdb
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\bin\Debug\net5.0\LibraryPenaltyCalculation.Data.pdb
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\obj\Debug\net5.0\LibraryPenaltyCalculation.Business.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\obj\Debug\net5.0\LibraryPenaltyCalculation.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\obj\Debug\net5.0\LibraryPenaltyCalculation.Business.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\obj\Debug\net5.0\LibraryPenaltyCalculation.Business.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\obj\Debug\net5.0\LibraryPenaltyCalculation.Business.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\obj\Debug\net5.0\LibraryPenaltyCalculation.Business.csproj.CopyComplete
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\obj\Debug\net5.0\LibraryPenaltyCalculation.Business.dll
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\obj\Debug\net5.0\ref\LibraryPenaltyCalculation.Business.dll
+C:\Users\Yasin\Desktop\LibraryPenaltyCalculation\LibraryPenaltyCalculation.Business\obj\Debug\net5.0\LibraryPenaltyCalculation.Business.pdb
